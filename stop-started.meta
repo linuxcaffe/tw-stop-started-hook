@@ -10,6 +10,8 @@ base_url=https://raw.githubusercontent.com/linuxcaffe/tw-stop-started-hook/maste
 files=on-modify_stop-started.sh:hook
 tags=hook,start,active,single,focus
 
-author=linuxcaffe
+checksums=a8b2aae4957ecf17875a91de2a20c42be8024f0b18035f76e2c2c38262f7237b
+
+author=tba
 license=MIT
 requires_taskwarrior=2.6.0
